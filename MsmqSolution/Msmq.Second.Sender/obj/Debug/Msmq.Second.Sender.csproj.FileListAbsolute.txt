@@ -1,0 +1,6 @@
+D:\Antony\MSMQ\MsmqSolution\Msmq.Second.Sender\bin\Debug\Msmq.Second.Sender.exe.config
+D:\Antony\MSMQ\MsmqSolution\Msmq.Second.Sender\bin\Debug\Msmq.Second.Sender.exe
+D:\Antony\MSMQ\MsmqSolution\Msmq.Second.Sender\bin\Debug\Msmq.Second.Sender.pdb
+D:\Antony\MSMQ\MsmqSolution\Msmq.Second.Sender\obj\Debug\Msmq.Second.Sender.csprojResolveAssemblyReference.cache
+D:\Antony\MSMQ\MsmqSolution\Msmq.Second.Sender\obj\Debug\Msmq.Second.Sender.exe
+D:\Antony\MSMQ\MsmqSolution\Msmq.Second.Sender\obj\Debug\Msmq.Second.Sender.pdb

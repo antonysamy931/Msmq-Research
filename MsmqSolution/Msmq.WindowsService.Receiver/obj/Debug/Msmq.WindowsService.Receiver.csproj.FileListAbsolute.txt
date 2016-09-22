@@ -1,0 +1,8 @@
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\obj\Debug\Msmq.WindowsService.Receiver.csprojResolveAssemblyReference.cache
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\bin\Debug\Msmq.WindowsService.Receiver.exe.config
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\bin\Debug\Msmq.WindowsService.Receiver.exe
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\bin\Debug\Msmq.WindowsService.Receiver.pdb
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\obj\Debug\Msmq.WindowsService.Receiver.exe
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\obj\Debug\Msmq.WindowsService.Receiver.pdb
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\obj\Debug\Msmq.WindowsService.Receiver.ProjectInstaller.resources
+D:\Antony\MSMQ\MsmqSolution\Msmq.WindowsService.Receiver\obj\Debug\Msmq.WindowsService.Receiver.csproj.GenerateResource.Cache

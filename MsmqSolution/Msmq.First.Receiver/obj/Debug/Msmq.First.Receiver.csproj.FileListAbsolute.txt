@@ -1,0 +1,5 @@
+D:\Antony\MSMQ\MsmqSolution\Msmq.First.Receiver\bin\Debug\Msmq.First.Receiver.exe.config
+D:\Antony\MSMQ\MsmqSolution\Msmq.First.Receiver\bin\Debug\Msmq.First.Receiver.exe
+D:\Antony\MSMQ\MsmqSolution\Msmq.First.Receiver\bin\Debug\Msmq.First.Receiver.pdb
+D:\Antony\MSMQ\MsmqSolution\Msmq.First.Receiver\obj\Debug\Msmq.First.Receiver.exe
+D:\Antony\MSMQ\MsmqSolution\Msmq.First.Receiver\obj\Debug\Msmq.First.Receiver.pdb
