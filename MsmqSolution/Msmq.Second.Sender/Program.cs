@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Messaging;
+using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,7 +14,11 @@ namespace Msmq.Second.Sender
         static void Main(string[] args)
         {
         Top:
+            if (!CheckMSMQInstalled())
+                //installer will work
+                return;
             MessageQueue messageQueue = null;
+            //Check msmq private path available or not
             if (!MessageQueue.Exists(Path))
             {
                 //Create message queue with transaction enabled
@@ -40,6 +45,24 @@ namespace Msmq.Second.Sender
             }
             else
                 return;
+        }
+
+        private static bool CheckMSMQInstalled()
+        {
+            bool available = false;
+            List<ServiceController> services = ServiceController.GetServices().ToList();
+            if (services != null && services.Count > 0)
+            {
+                ServiceController msQue = services.FirstOrDefault(o => o.ServiceName == "MSMQ");
+                if (msQue != null)
+                {
+                    if (msQue.Status == ServiceControllerStatus.Running)
+                    {
+                        available = true;
+                    }
+                }
+            }
+            return available;
         }
     }
 }
